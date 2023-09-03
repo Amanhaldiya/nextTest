@@ -4,9 +4,9 @@ import UserContext from "../context/userContext";
 import Task from "./Task";
 import { deleteTask,  geTaskUser } from "@/services/Taskservices";
 import { toast } from "react-toastify";
-export const metadata={
-    title:"All tasks:Work Manager"
-}
+
+
+
 const ShowTasks=()=>{
 
 
