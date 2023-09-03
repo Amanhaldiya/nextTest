@@ -11,11 +11,6 @@ import Testimonial from '@/components/homePage/Testimonial';
 import Image from 'next/image'
 import ContactForm from '@/components/homePage/ContactForm';
 
-export const metadata={
-  title:"Home:Work Manager",
-};
-
-
 
 
 
