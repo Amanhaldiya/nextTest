@@ -4,9 +4,9 @@ import {toast} from "react-toastify";
 import loginsvg from "../../assests/login.svg";
 import Image from "next/image";
 import { addTask } from "@/services/Taskservices";
-export const metadata={
-    title:"Add Task:Work Manager "
-}
+
+
+
 const AddTask=()=>{
     document.title=metadata.title;
  const[task,setTask]= useState({
